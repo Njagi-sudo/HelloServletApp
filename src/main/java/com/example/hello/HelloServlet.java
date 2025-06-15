@@ -5,9 +5,7 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-/**
- * A basic servlet that handles HTTP GET requests and displays a welcome message.
- */
+//A basic servlet that handles HTTP request and displays a message
 
 public class HelloServlet extends HttpServlet {
 //    @param request TheHttpServlet Request object that contains the request the client made
